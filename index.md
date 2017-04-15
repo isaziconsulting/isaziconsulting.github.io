@@ -4,4 +4,6 @@ Isazi Consulting is a South African based company focussing primarily on the app
 
 # Posts
 
-[page](2017-3-28-robots-will-take-over)
+### * [Robots will take over, but at least we'll be bored]()
+
+### * [X-Ray Desensitization Tool]()
