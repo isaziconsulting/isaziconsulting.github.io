@@ -8,6 +8,12 @@ table{
     font-size: 15px;
 }
 
+<style>
+body {
+  font-size: 17px;
+  }
+</style>
+
 th{
     border:2px solid #fafafa;
 }
