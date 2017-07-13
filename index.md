@@ -8,6 +8,8 @@ Isazi Consulting is a South African based company focussing primarily on the app
 
 ### [X-Ray Desensitization Tool](https://isaziconsulting.github.io/xray-desensitizer/) - 18/04/2017
 
+### [Agni: A simple front vs side x-ray classification model](https://isaziconsulting.github.io/XRayFrontSideDetection/) - 13/07/2017
+
 # Follow Us
 
 <!-- display the social media buttons in your README -->
